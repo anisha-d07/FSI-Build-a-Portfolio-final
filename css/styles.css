@@ -1,0 +1,31 @@
+body {
+    font-size :24 px;
+    background-color: #fffcf1 ;
+    color: #000920;
+    font-family:"Times new Roman", "Times", "serif" ;
+
+}
+p {
+ font-family: sans-serif, Arial, Helvetica;
+}
+img {
+    max-height: 400px;
+    border-radius: 2%;
+    border: 1px solid black;
+    
+}
+
+a {
+  color: #286828;
+  transition: 1s;
+}
+
+a:hover {
+  color: #053ea8;
+  font-size: 26px;
+ 
+}
+
+.center{
+    text-align: center;
+}
